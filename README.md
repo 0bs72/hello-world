@@ -1,3 +1,3 @@
 # hello-world
-Learning
-Coding Python, HTML, PHP and CSS
+Learning: 
+Coding with Python, HTML, PHP and CSS
